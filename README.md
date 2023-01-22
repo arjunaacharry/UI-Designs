@@ -1,7 +1,7 @@
 # UI-Designs
 - **Connect me through** [LinkedIn](https://www.linkedin.com/in/arjun-a-acharry-044a36252/)
 - **Posting new creativities in** [Behance](https://www.behance.net/arjunaacharry)
-## UI Designing Challenge
+## 10 Days UI Designing Challenge
 
 ### Day 01 : January 22, 2023
 - **Today's Task : Workout App**
