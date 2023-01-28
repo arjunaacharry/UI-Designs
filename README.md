@@ -3,6 +3,9 @@
 - **Posting new creativities in** [Behance](https://www.behance.net/arjunaacharry)
 ## 10 Days UI Designing Challenge
 
+
+### Due to exams , I'm just taking a little break from the UI designing Challenge. After the exam I will come back with new designs.
+
 ### Day 05 : January 27, 2023
 - **Today's Task :  Personal Data Saving App Login**
 - **Task Description : Personal Data Saving App Login UI design**
