@@ -9,8 +9,6 @@
 - **Task Description : Music App UI design**
 - **Today's Work : [06](https://user-images.githubusercontent.com/115148574/217629833-24f41ba1-d3f4-4eb0-b087-430993271d15.jpg)**
 
-## Due to exams , I'm just taking a little break from the UI designing Challenge. After the exam I will come back with new designs.
-
 ### Day 05 : January 27, 2023
 - **Today's Task :  Personal Data Saving App Login**
 - **Task Description : Personal Data Saving App Login UI design**
