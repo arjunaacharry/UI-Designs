@@ -3,6 +3,10 @@
 - **Posting new creativities in** [Behance](https://www.behance.net/arjunaacharry)
 ## 10 Days UI Designing Challenge
 
+### Day 07 : February 11, 2023
+- **Today's Task : Application For Kids**
+- **Task Description : UI Design of a story application for kids**
+- **Today's Work : [07](https://user-images.githubusercontent.com/115148574/218262503-5d40aabd-d789-4662-a9aa-9019b0fb8f1e.jpg)**
 
 ### Day 06 : February 9, 2023
 - **Today's Task :  Music App**
