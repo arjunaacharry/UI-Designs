@@ -6,7 +6,7 @@
 ### Day 08 : February 19, 2023
 - **Today's Task : Website Template**
 - **Task Description : Website Template Design**
-- **Today's Work : [08](https://user-images.githubusercontent.com/115148574/219919375-1c6a92bb-e2aa-4628-823f-9e5b2384c5b3.jpg)
+- **Today's Work : [08](https://user-images.githubusercontent.com/115148574/219919375-1c6a92bb-e2aa-4628-823f-9e5b2384c5b3.jpg)**
 
 ### Day 07 : February 11, 2023
 - **Today's Task : Application For Kids**
